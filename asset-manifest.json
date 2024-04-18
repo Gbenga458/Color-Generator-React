@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Color-Generator-React/static/css/main.af1e21e4.css",
+    "main.js": "/Color-Generator-React/static/js/main.4c72ec69.js",
+    "index.html": "/Color-Generator-React/index.html",
+    "main.af1e21e4.css.map": "/Color-Generator-React/static/css/main.af1e21e4.css.map",
+    "main.4c72ec69.js.map": "/Color-Generator-React/static/js/main.4c72ec69.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af1e21e4.css",
+    "static/js/main.4c72ec69.js"
+  ]
+}
